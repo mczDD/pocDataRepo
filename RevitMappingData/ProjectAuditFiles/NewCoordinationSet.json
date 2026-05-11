@@ -1,0 +1,37 @@
+[
+  {
+    "IsSelected": true,
+    "SetName": "Toilet above Beams",
+    "Description": "Check if toilets are within 500mm of structural framing",
+    "Type": "Coordination",
+    "Function": 1
+  },
+  {
+    "IsSelected": true,
+    "SetName": "Riser Above Beams",
+    "Description": "Regulatory clearance for vertical pipes",
+    "Type": "Coordination",
+    "Function": 2
+  },
+  {
+    "IsSelected": true,
+    "SetName": "Minimum Corridor Clearance",
+    "Description": "Check any corridor under width standard.",
+    "Type": "Regulatory",
+    "Function": 3
+  },
+  {
+    "IsSelected": true,
+    "SetName": "Accessible Toilet",
+    "Description": "Check accessible stall dimensions.",
+    "Type": "Regulatory",
+    "Function": 4
+  },
+  {
+    "IsSelected": false,
+    "SetName": "Headroom Clearance",
+    "Description": "Identify items with less than 2000mm clearance.",
+    "Type": "Regulatory",
+    "Function": 5
+  }
+]
